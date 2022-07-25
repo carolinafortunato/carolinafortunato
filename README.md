@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carolinafortunato
 - 👀 I’m interested in music, cats and learning.
-- 🌱 I’m currently learning html and css.
+- 🌱 I’m currently learning html, css and javascript.
 - 💞️ I’m looking to collaborate on front end projects.
 - 📫 Reach me at carolinafortunatod@gmail.com
 
